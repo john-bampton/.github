@@ -1,6 +1,6 @@
 # Hi and Welcome !!
 
-# Management Team
+## Management Team
 
 - [John Bampton](https://github.com/jbampton) CEO and Founder
 - [Max Base](https://github.com/BaseMax) CTO
