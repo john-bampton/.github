@@ -60,7 +60,6 @@ def main():
 
     try:
         event_data = load_event_data()
-        pprint(event_data)
         username = event_data['sender']['login']
         send_github_invite(username, team_id, github_token)
     except Exception as e:
