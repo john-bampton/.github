@@ -18,7 +18,15 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Install Python Dependencies
+      - name: 🔄 Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('.github/workflows/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: 📦 Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
           if [ -f .github/workflows/requirements.txt ]; then
