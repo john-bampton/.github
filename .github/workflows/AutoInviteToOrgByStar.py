@@ -17,8 +17,6 @@ def log_env_info():
     print("🔍 Environment Info:")
     print("CI Environment:", "GitHub Actions" if os.getenv('CI') else "Local")
     print("Python Prefix:", sys.prefix)
-    print("Environment Variables:")
-    pprint(dict(os.environ))
 
 def load_event_data():
     event_path = os.getenv('GITHUB_EVENT_PATH')
