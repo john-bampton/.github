@@ -10,6 +10,8 @@
     </div>
   </a>
 
+  <br>
+
   <a href="https://github.com/BaseMax" style="text-decoration: none;">
     <div>
       <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base"><br>
@@ -17,6 +19,8 @@
       Max Base
     </div>
   </a>
+
+  <br>
 
   <a href="https://github.com/jbampton" style="text-decoration: none;">
     <div>
