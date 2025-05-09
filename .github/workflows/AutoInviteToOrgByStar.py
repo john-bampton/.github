@@ -11,7 +11,6 @@ import os
 import sys
 import json
 import requests
-from pprint import pprint
 
 def log_env_info():
     print("🔍 Environment Info:")
