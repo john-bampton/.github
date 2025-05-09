@@ -78,7 +78,7 @@
 - [sugiarto](https://github.com/ugifractal)
 - [Víctor Araica](https://github.com/VictorAraica)
 
-# Interested projects
+# Interesting projects
 
 - **PHP Language:** https://github.com/php/php-src
 - **TypeScript Language:** https://github.com/microsoft/TypeScript
