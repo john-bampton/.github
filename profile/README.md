@@ -82,9 +82,9 @@
 - [sugiarto](https://github.com/ugifractal)
 - [Víctor Araica](https://github.com/VictorAraica)
 
-## Interesting projects
+## Max's List of Interesting Projects
 
-- **PHP Language:** https://github.com/php/php-src
-- **TypeScript Language:** https://github.com/microsoft/TypeScript
 - **CPython Language:** https://github.com/python/cpython
 - **LangChain:** https://github.com/langchain-ai/langchain
+- **PHP Language:** https://github.com/php/php-src
+- **TypeScript Language:** https://github.com/microsoft/TypeScript
