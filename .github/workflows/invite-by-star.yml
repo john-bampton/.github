@@ -1,4 +1,4 @@
-name: Invite New User on Star
+name: ⭐ Invite New User on Star
 
 on:
   watch:
@@ -6,19 +6,19 @@ on:
 
 jobs:
   invite-user:
-    name: Invite New GitHub User
+    name: 🙋‍♂️ Invite New GitHub User
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set Up Python
+      - name: 🐍 Set Up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
-      - name: 🔄 Cache pip dependencies
+      - name: 🔄 Cache pip Dependencies
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
@@ -33,7 +33,7 @@ jobs:
             pip install -r .github/workflows/requirements.txt
           fi
 
-      - name: Run Auto-Invite Script
+      - name: 🤖 Run Auto-Invite Script
         run: python .github/workflows/AutoInviteToOrgByStar.py
         env:
           MY_GITHUB_KEY: ${{ secrets.MY_GITHUB_KEY }}
