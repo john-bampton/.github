@@ -1,15 +1,19 @@
-# Hi and Welcome !!
-
-## Management Team
-
-- [John Bampton](https://github.com/jbampton) CEO and Founder
-- [Max Base](https://github.com/BaseMax) CTO
-- [Beast](https://github.com/johnbampton) Office Cleaner
-
-## GitHub Maintainers
-
-- [John Bampton](https://github.com/jbampton)
-- [Max Base](https://github.com/BaseMax)
+<div align="center">
+    <h1>Hi and Welcome !!</h1>
+    <h2>Management Team</h2>
+    <a href="https://github.com/jbampton">
+        <h3>CEO and Founder</h3>
+        <img src="https://avatars.githubusercontent.com/u/418747?s=200&v=4" alt="John Bampton">
+    </a>
+    <a href="https://github.com/BaseMax">
+        <h3>Cheif Technical Officer</h3>
+        <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base">
+    </a>
+    <a href="https://github.com/jbampton">
+        <h3>Office Cleaner</h3>
+        <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="Beast">
+    </a>
+</div>
 
 ## Projects We Run
 
