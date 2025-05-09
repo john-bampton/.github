@@ -49,3 +49,31 @@
 [![curl](https://avatars.githubusercontent.com/u/16928085?s=200&v=4 "curl")](https://github.com/curl)
 [![Lucee](https://avatars.githubusercontent.com/u/10973141?s=200&v=4 "Lucee")](https://github.com/lucee)
 [![mruby](https://avatars.githubusercontent.com/u/1796512?s=200&v=4 "mruby")](https://github.com/mruby)
+
+# John's friends
+
+<!-- https://github.com/BaseMax/github-name-friends -->
+
+- [Karinisk](https://github.com/Karinisk)
+- [therealnugget](https://github.com/therealnugget)
+- [Amir Tallap](https://github.com/AmirTallap)
+- [Anderson García](https://github.com/Anderson-Garcia)
+- [Anuradha Fernando](https://github.com/anufdo)
+- [Ayush Rana](https://github.com/ayushrana182)
+- [Clay Lanzino](https://github.com/ClayLanzino)
+- [Daniel Araica](https://github.com/DanielAraica)
+- [Giacomo Sorbi](https://github.com/GiacomoSorbi)
+- [Harley Armentrout](https://github.com/grfxwzdesigner)
+- [Idaís Araica](https://github.com/Idaaraica)
+- [jis0324](https://github.com/jis0324)
+- [Jorge Araica](https://github.com/summerhill5)
+- [Luke A](https://github.com/wallacelukea)
+- [Mahabub Islam Prio](https://github.com/prio101)
+- [Max Base](https://github.com/BaseMax)
+- [Mohab Sherif](https://github.com/mohabsherif)
+- [Mohammad Lotfi Akbarabadi](https://github.com/MohammadLotfiA)
+- [Natasha](https://github.com/natasha2016github)
+- [Nicholas Meredith](https://github.com/udha)
+- [SM Riad](https://github.com/smriad)
+- [sugiarto](https://github.com/ugifractal)
+- [Víctor Araica](https://github.com/VictorAraica)
