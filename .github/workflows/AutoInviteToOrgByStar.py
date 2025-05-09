@@ -22,7 +22,7 @@ def load_event_data():
     if not event_path or not os.path.isfile(event_path):
         raise FileNotFoundError("GITHUB_EVENT_PATH is missing or invalid.")
     
-    with open(event_path, 'r') as file:
+    with open(event_path, 'r', encoding='utf-8') as file:
         return json.load(file)
 
 def send_github_invite(username, team_id, token):
