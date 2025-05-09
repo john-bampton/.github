@@ -22,7 +22,7 @@
 
   <br>
 
-  <a href="https://github.com/jbampton" style="text-decoration: none;">
+  <a href="https://github.com/johnbampton" style="text-decoration: none;">
     <div>
       <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="Beast"><br>
       <strong>Office Cleaner</strong><br>
