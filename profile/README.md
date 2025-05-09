@@ -1,18 +1,30 @@
 <div align="center">
-    <h1>Hi and Welcome !!</h1>
-    <h2>Management Team</h2>
-    <a href="https://github.com/jbampton">
-        <h3>CEO and Founder</h3>
-        <img src="https://avatars.githubusercontent.com/u/418747?s=200&v=4" alt="John Bampton">
-    </a>
-    <a href="https://github.com/BaseMax">
-        <h3>Cheif Technical Officer</h3>
-        <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base">
-    </a>
-    <a href="https://github.com/jbampton">
-        <h3>Office Cleaner</h3>
-        <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="Beast">
-    </a>
+  <h1>Hi and Welcome !!</h1>
+  <h2>Management Team</h2>
+
+  <a href="https://github.com/jbampton" style="text-decoration: none;">
+    <div>
+      <img src="https://avatars.githubusercontent.com/u/418747?s=200&v=4" alt="John Bampton"><br>
+      <strong>CEO and Founder</strong><br>
+      John Bampton
+    </div>
+  </a>
+
+  <a href="https://github.com/BaseMax" style="text-decoration: none;">
+    <div>
+      <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base"><br>
+      <strong>Chief Technical Officer</strong><br>
+      Max Base
+    </div>
+  </a>
+
+  <a href="https://github.com/jbampton" style="text-decoration: none;">
+    <div>
+      <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="Beast"><br>
+      <strong>Office Cleaner</strong><br>
+      Beast
+    </div>
+  </a>
 </div>
 
 ## Projects We Run
