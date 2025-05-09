@@ -31,7 +31,7 @@
   </a>
 </div>
 
-## Projects We Run
+## Organizations We Run
 
 [![Brisbane Social Chess](https://avatars.githubusercontent.com/u/61562340?s=200&v=4 "Brisbane Social Chess")](https://github.com/brisbanesocialchess)
 [![Donya Operating System](https://avatars.githubusercontent.com/u/69087549?s=200&v=4 "Donya Operating System")](https://github.com/DonyaOS)
@@ -43,7 +43,7 @@
 [![Salam Programming Language](https://avatars.githubusercontent.com/u/161657044?s=200&v=4 "Salam Programming Language")](https://github.com/SalamLang)
 [![64 Shades](https://avatars.githubusercontent.com/u/85593293?s=200&v=4 "64 Shades")](https://github.com/64-shades)
 
-# Projects We Support
+# Organizations We Support
 
 [![The Apache Software Foundation](https://avatars.githubusercontent.com/u/47359?s=200&v=4 "The Apache Software Foundation")](https://github.com/apache/)
 [![curl](https://avatars.githubusercontent.com/u/16928085?s=200&v=4 "curl")](https://github.com/curl)
