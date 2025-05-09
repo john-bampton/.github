@@ -43,14 +43,14 @@
 [![Salam Programming Language](https://avatars.githubusercontent.com/u/161657044?s=200&v=4 "Salam Programming Language")](https://github.com/SalamLang)
 [![64 Shades](https://avatars.githubusercontent.com/u/85593293?s=200&v=4 "64 Shades")](https://github.com/64-shades)
 
-# Organizations We Support
+## Organizations We Support
 
 [![The Apache Software Foundation](https://avatars.githubusercontent.com/u/47359?s=200&v=4 "The Apache Software Foundation")](https://github.com/apache/)
 [![curl](https://avatars.githubusercontent.com/u/16928085?s=200&v=4 "curl")](https://github.com/curl)
 [![Lucee](https://avatars.githubusercontent.com/u/10973141?s=200&v=4 "Lucee")](https://github.com/lucee)
 [![mruby](https://avatars.githubusercontent.com/u/1796512?s=200&v=4 "mruby")](https://github.com/mruby)
 
-# John's friends
+## John's friends
 
 <!-- https://github.com/BaseMax/github-name-friends -->
 
@@ -78,7 +78,7 @@
 - [sugiarto](https://github.com/ugifractal)
 - [Víctor Araica](https://github.com/VictorAraica)
 
-# Interesting projects
+## Interesting projects
 
 - **PHP Language:** https://github.com/php/php-src
 - **TypeScript Language:** https://github.com/microsoft/TypeScript
