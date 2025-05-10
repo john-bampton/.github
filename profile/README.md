@@ -82,6 +82,7 @@
 - [Natasha](https://github.com/natasha2016github)
 - [Nicholas Meredith](https://github.com/udha)
 - [SM Riad](https://github.com/smriad)
+- [FIDE Master Stevan Jovic](https://lichess.org/@/steva23)
 - [sugiarto](https://github.com/ugifractal)
 - [therealnugget](https://github.com/therealnugget)
 - [Víctor Araica](https://github.com/VictorAraica)
