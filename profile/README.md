@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi and Welcome !!</h1>
-  <h2>Management Team</h2>
+  <h1>Hi and Welcome !! 👋</h1>
+  <h2>Management Team 👥</h2>
 </div>
 <div align="center">
   <table>
@@ -8,21 +8,21 @@
       <td align="center">
         <a href="https://github.com/jbampton"> 
           <img src="https://avatars.githubusercontent.com/u/418747?s=200&v=4" alt="John Bampton"><br>
-          <strong>CEO and Founder</strong><br>
+          <strong>CEO and Founder 🏢</strong><br>
           John Bampton  
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/BaseMax">
           <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base"><br>
-          <strong>Chief Technical Officer</strong><br>
+          <strong>Chief Technical Officer 💻</strong><br>
           Max Base  
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/johnbampton"> 
           <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="Beast"><br>
-          <strong>Office Cleaner</strong><br>
+          <strong>Office Cleaner 🧹</strong><br>
           Beast   
         </a>
       </td>
@@ -30,7 +30,7 @@
   </table>
 </div>  
 
-## Organizations We Run
+## Organizations We Run 🏢
 
 [![Brisbane Social Chess](https://avatars.githubusercontent.com/u/61562340?s=200&v=4 "Brisbane Social Chess")](https://github.com/brisbanesocialchess)
 [![Cartman's House](https://avatars.githubusercontent.com/u/86169385?s=200&v=4 "Cartman's House")](https://github.com/cartmanshouse)
@@ -46,14 +46,14 @@
 [![Salam Programming Language](https://avatars.githubusercontent.com/u/161657044?s=200&v=4 "Salam Programming Language")](https://github.com/SalamLang)
 [![64 Shades](https://avatars.githubusercontent.com/u/85593293?s=200&v=4 "64 Shades")](https://github.com/64-shades)
 
-## Organizations We Support
+## Organizations We Support 🤝
 
 [![The Apache Software Foundation](https://avatars.githubusercontent.com/u/47359?s=200&v=4 "The Apache Software Foundation")](https://github.com/apache/)
 [![curl](https://avatars.githubusercontent.com/u/16928085?s=200&v=4 "curl")](https://github.com/curl)
 [![Lucee](https://avatars.githubusercontent.com/u/10973141?s=200&v=4 "Lucee")](https://github.com/lucee)
 [![mruby](https://avatars.githubusercontent.com/u/1796512?s=200&v=4 "mruby")](https://github.com/mruby)
 
-## We Donate Here
+## We Donate Here ❤️
 
 <a href="https://www.flyingdoctor.org.au/">
   <img src="images/rfds-front.jpg"
@@ -66,7 +66,7 @@
     width="360">
 </a>
 
-## John's friends
+## John's friends 👯
 
 <!-- https://github.com/BaseMax/github-name-friends -->
 
@@ -99,14 +99,14 @@
 - [therealnugget](https://github.com/therealnugget)
 - [Víctor Araica](https://github.com/VictorAraica)
 
-## Max's List of Interesting Repositories
+## Max's List of Interesting Repositories 📚
 
 - **CPython Language:** https://github.com/python/cpython
 - **LangChain:** https://github.com/langchain-ai/langchain
 - **PHP Language:** https://github.com/php/php-src
 - **TypeScript Language:** https://github.com/microsoft/TypeScript
 
-## John's List of Awesome GitHub Organizations
+## John's List of Awesome GitHub Organizations 🌟
 
 - **The LaTeX Project:** https://github.com/latex3
 - **Lichess:** https://github.com/lichess-org
@@ -114,7 +114,7 @@
 - **Sparkle Motion:** https://github.com/sparklemotion
 - **Sphinx:** https://github.com/sphinx-doc
 
-## We Love Fuchsia Flowers
+## We Love Fuchsia Flowers 🌸
 
 [![BattleStar Galactica](images/fuchsia-logo-battlestar.jpg "BattleStar Galactica")](https://en.wikipedia.org/wiki/Battlestar_Galactica)
 [![Doom](images/fuchsia-logo-doom.jpg "Doom")](https://en.wikipedia.org/wiki/Doom_(franchise))
@@ -122,6 +122,6 @@
 [![Inception](images/fuchsia-logo-inception.jpg "Inception")](https://en.wikipedia.org/wiki/Inception)
 [![Sliders](images/fuchsia-logo-sliders.jpg "Sliders")](https://en.wikipedia.org/wiki/Sliders_(TV_series))
 
-## Jorge Luis Araica Mazzei
+## Jorge Luis Araica Mazzei 🌍
 
 [![Jorge Luis Araica Mazzei](images/jorge-luis-araica-mazzei.png "Jorge Luis Araica Mazzei")](https://github.com/summerhill5)
