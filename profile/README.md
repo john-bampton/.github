@@ -116,11 +116,15 @@
 
 ## We Love Fuchsia Flowers 🌸
 
+[![Arcade](images/fuchsia-arcade.gif "Arcade")](#)
 [![BattleStar Galactica](images/fuchsia-logo-battlestar.jpg "BattleStar Galactica")](https://en.wikipedia.org/wiki/Battlestar_Galactica)
+[![Video](images/fuchsia-crazy-video.gif)](#)
 [![Doom](images/fuchsia-logo-doom.jpg "Doom")](https://en.wikipedia.org/wiki/Doom_(franchise))
 [![Fringe](images/fuchsia-logo-fringe.jpg "Fringe")](https://en.wikipedia.org/wiki/Fringe_(TV_series))
+[![Fringe Division](images/fuchsia-logo-fringe-division.gif "Fringe Division")](https://en.wikipedia.org/wiki/Fringe_(TV_series))
 [![Inception](images/fuchsia-logo-inception.jpg "Inception")](https://en.wikipedia.org/wiki/Inception)
 [![Sliders](images/fuchsia-logo-sliders.jpg "Sliders")](https://en.wikipedia.org/wiki/Sliders_(TV_series))
+[![The Walking Dead](images/fuchsia-logo-twd.png "The Walking Dead")](https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series))
 
 ## Jorge Luis Araica Mazzei 🌍
 
