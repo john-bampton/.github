@@ -114,6 +114,10 @@
 - **Sparkle Motion:** https://github.com/sparklemotion
 - **Sphinx:** https://github.com/sphinx-doc
 
+## Classic Books
+
+- **[1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)** by **George Orwell**: Ruled by the Party, controlled by the watchful gaze of Big Brother and punished by the Thought Police, no one is free in this dystopian world. But, hidden away in an office in the Ministry of Truth, Winston Smith longs for liberty, and starts to rebel.
+
 ## We Love Fuchsia Flowers 🌸
 
 [![Arcade](images/fuchsia-arcade.gif "Arcade")](#)
