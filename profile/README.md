@@ -30,6 +30,12 @@
   </table>
 </div>  
 
+<div align="center">
+  <h2>Invite on "Star" 🌠</h2>
+</div>
+
+Add a `Star` to the [repository](https://github.com/john-bampton/.github) and you will be sent an email invitation to join the `John Bampton` GitHub Organization ⏩ 🏦
+
 ## Organizations We Run 🏢
 
 [![Brisbane Social Chess](https://avatars.githubusercontent.com/u/61562340?s=200&v=4 "Brisbane Social Chess")](https://github.com/brisbanesocialchess)
