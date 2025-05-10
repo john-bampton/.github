@@ -87,9 +87,17 @@
 - [therealnugget](https://github.com/therealnugget)
 - [Víctor Araica](https://github.com/VictorAraica)
 
-## Max's List of Interesting Projects
+## Max's List of Interesting Repositories
 
 - **CPython Language:** https://github.com/python/cpython
 - **LangChain:** https://github.com/langchain-ai/langchain
 - **PHP Language:** https://github.com/php/php-src
 - **TypeScript Language:** https://github.com/microsoft/TypeScript
+
+## John's List of Awesome GitHub Organizations
+
+- **The LaTeX Project:** https://github.com/latex3
+- **Lichess:** https://github.com/lichess-org
+- **PostgreSQL:** https://github.com/postgres
+- **Sparkle Motion:** https://github.com/sparklemotion
+- **Sphinx:** https://github.com/sphinx-doc
