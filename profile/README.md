@@ -114,7 +114,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 - [therealnugget](https://github.com/therealnugget)
 - [Víctor Araica](https://github.com/VictorAraica)
 
-## Max's List of Interesting Repositories 📚
+## Max's List of Interesting Repositories 📋
 
 - **CPython Language:** https://github.com/python/cpython
 - **LangChain:** https://github.com/langchain-ai/langchain
@@ -129,7 +129,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 - **Sparkle Motion:** https://github.com/sparklemotion
 - **Sphinx:** https://github.com/sphinx-doc
 
-## Classic Books
+## Classic Books 📚
 
 - **[1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)** by **George Orwell**: Ruled by the Party, controlled by the watchful gaze of Big Brother and punished by the Thought Police, no one is free in this dystopian world. But, hidden away in an office in the Ministry of Truth, Winston Smith longs for liberty, and starts to rebel.
 
