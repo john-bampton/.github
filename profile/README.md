@@ -62,36 +62,48 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 ## We Donate Here ❤️
 
 <div>
+  <h3><a href="https://www.compassion.com.au/">Compassion</a> is a Christian international holistic child development organisation</h3>
   <a href="https://www.compassion.com.au/gifts-of-compassion/fruit-and-veggie-seeds-10-pack">
     <img src="images/gifts-of-compassion-fruit-and-veggie-seeds-pack.png"
-      alt="Gifts of Compassion Fruit and Veggie Seeds Pack"
-      title="Gifts of Compassion Fruit and Veggie Seeds Pack"
+      alt="We donated to Gifts of Compassion Fruit and Veggie Seeds Pack"
+      title="We donated to Gifts of Compassion Fruit and Veggie Seeds Pack"
   </a>
 </div>
 <div>
-<a href="https://www.flyingdoctor.org.au/">
-  <img src="images/rfds-front.jpg"
-    alt="We donated to The Royal Flying Doctor Service Australia"
-    title="We donated to The Royal Flying Doctor Service Australia"
-    width="360">
-  <img src="images/rfds-back.jpg"
-    alt="We donated to The Royal Flying Doctor Service Australia"
-    title="We donated to The Royal Flying Doctor Service Australia"
-    width="360">
-</a>
-</div>
-<div>
-  <a href="https://opencollective.com/john-bampton">
-    <img src="images/open-collective-sponsoring-5-dollars.png"
-      alt="John Bampton at Open Collective" 
-      title="John Bampton at Open Collective">
+  <h3>The <a href="https://www.flyingdoctor.org.au/">RFDS</a> is a national, charitable, health organisation delivering primary healthcare and 24-hour emergency services for those that live in rural and remote Australia.</h3>
+  <a href="https://www.flyingdoctor.org.au/">
+    <img src="images/rfds-front.jpg"
+      alt="We donated to The Royal Flying Doctor Service Australia"
+      title="We donated to The Royal Flying Doctor Service Australia"
+      width="360">
+    <img src="images/rfds-back.jpg"
+      alt="We donated to The Royal Flying Doctor Service Australia"
+      title="We donated to The Royal Flying Doctor Service Australia"
+      width="360">
   </a>
 </div>
 <div>
+  <h3><a href="https://www.oxfam.org.au/">Oxfam</a> is an international charity and global movement dedicated to tackling the root causes of poverty.</h3>
   <a href="https://unwrapped.oxfam.org.au/">
     <img src="images/uwrapped-oxfam-donation-website.png"
-      alt="Oxfam Australia is an Australian, independent, charity, not-for-profit, secular, community-based aid and development organization, and is an affiliate of the Oxfam International Confederation."
-      title="Oxfam Australia is an Australian, independent, charity, not-for-profit, secular, community-based aid and development organization, and is an affiliate of the Oxfam International Confederation."
+      alt="We donated to Oxfam Australia"
+      title="We donated to Oxfam Australia"
+  </a>
+</div>
+<div>
+  <h3><a href="https://www.caritas.org.au/">Caritas Australia</a> is an Australian Catholic agency for development cooperation and humanitarian aid.</h3>
+  <a href="https://www.caritas.org.au/">
+    <img src="images/donation-to-caritas.png"
+      alt="We donated to Caritas Australia"
+      title="We donated to Caritas Australia"
+  </a>
+</div>
+<div>
+  <h3><a href="https://opencollective.com/">Open Collective</a> is a crowdfunding platform focused on grassroots groups.</h3>
+  <a href="https://opencollective.com/john-bampton">
+    <img src="images/open-collective-sponsoring-5-dollars.png"
+      alt="Our Donations at Open Collective" 
+      title="Our Donations at Open Collective">
   </a>
 </div>
 
