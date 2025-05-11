@@ -62,6 +62,13 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 ## We Donate Here ❤️
 
 <div>
+  <a href="https://www.compassion.com.au/gifts-of-compassion/fruit-and-veggie-seeds-10-pack">
+    <img src="images/gifts-of-compassion-fruit-and-veggie-seeds-pack.png"
+      alt="Gifts of Compassion Fruit and Veggie Seeds Pack"
+      title="Gifts of Compassion Fruit and Veggie Seeds Pack"
+  </a>
+</div>
+<div>
 <a href="https://www.flyingdoctor.org.au/">
   <img src="images/rfds-front.jpg"
     alt="We donated to The Royal Flying Doctor Service Australia"
