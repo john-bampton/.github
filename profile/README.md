@@ -102,7 +102,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 
 ## We Donate Here ❤️
 
-<div>
+<div align="center">
   <h3><a href="https://www.compassion.com.au/">Compassion</a> is a Christian international holistic child development organisation</h3>
   <a href="https://www.compassion.com.au/gifts-of-compassion/fruit-and-veggie-seeds-10-pack">
     <img src="images/gifts-of-compassion-fruit-and-veggie-seeds-pack.png"
@@ -110,7 +110,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       title="We donated to Gifts of Compassion Fruit and Veggie Seeds Pack"
   </a>
 </div>
-<div>
+<div align="center">
   <h3>The <a href="https://www.flyingdoctor.org.au/">RFDS</a> is a national, charitable, health organisation delivering primary healthcare and 24-hour emergency services for those that live in rural and remote Australia.</h3>
   <a href="https://www.flyingdoctor.org.au/">
     <img src="images/rfds-front.jpg"
@@ -123,7 +123,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       width="360">
   </a>
 </div>
-<div>
+<div align="center">
   <h3><a href="https://www.oxfam.org.au/">Oxfam</a> is an international charity and global movement dedicated to tackling the root causes of poverty.</h3>
   <a href="https://unwrapped.oxfam.org.au/">
     <img src="images/uwrapped-oxfam-donation-website.png"
@@ -131,7 +131,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       title="We donated to Oxfam Australia"
   </a>
 </div>
-<div>
+<div align="center">
   <h3><a href="https://www.caritas.org.au/">Caritas Australia</a> is an Australian Catholic agency for development cooperation and humanitarian aid.</h3>
   <a href="https://www.caritas.org.au/">
     <img src="images/donation-to-caritas.png"
@@ -139,7 +139,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       title="We donated to Caritas Australia"
   </a>
 </div>
-<div>
+<div align="center">
   <h3><a href="https://opencollective.com/">Open Collective</a> is a crowdfunding platform focused on grassroots groups.</h3>
   <a href="https://opencollective.com/john-bampton">
     <img src="images/open-collective-sponsoring-5-dollars.png"
@@ -217,7 +217,7 @@ Explore the collection:
 <a href="https://en.wikipedia.org/wiki/Sliders_(TV_series)"><img src="images/fuchsia-logo-sliders.jpg" alt="Sliders" title="Sliders" width="300" height="300" /></a>
 <a href="https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)"><img src="images/fuchsia-logo-twd.png" alt="The Walking Dead" title="The Walking Dead" width="300" height="300" /></a>
 
-<div style="text-align: center;">
+<div align="center">
   <h2>Jorge Luis Araica Mazzei 🌍</h2>
 
   <a href="https://github.com/summerhill5">
