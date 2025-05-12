@@ -40,43 +40,43 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
   <h2>Organizations We Run 🏢</h2>
   <p>
     <a href="https://github.com/brisbanesocialchess">
-      <img src="https://avatars.githubusercontent.com/u/61562340?s=200&v=4" title="Brisbane Social Chess">
+      <img src="https://avatars.githubusercontent.com/u/61562340?s=200&v=4" title="Brisbane Social Chess" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/cartmanshouse">
-      <img src="https://avatars.githubusercontent.com/u/86169385?s=200&v=4" title="Cartman's House">
+      <img src="https://avatars.githubusercontent.com/u/86169385?s=200&v=4" title="Cartman's House" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/DonyaOS">
-      <img src="https://avatars.githubusercontent.com/u/69087549?s=200&v=4" title="Donya Operating System">
+      <img src="https://avatars.githubusercontent.com/u/69087549?s=200&v=4" title="Donya Operating System" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/gatsbyg">
-      <img src="https://avatars.githubusercontent.com/u/60055701?s=200&v=4" title="Gatsby Graphics">
+      <img src="https://avatars.githubusercontent.com/u/60055701?s=200&v=4" title="Gatsby Graphics" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/golang-gophers">
-      <img src="https://avatars.githubusercontent.com/u/79288230?s=200&v=4" title="Google Golang Gophers">
+      <img src="https://avatars.githubusercontent.com/u/79288230?s=200&v=4" title="Google Golang Gophers" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/lispXXX">
-      <img src="https://avatars.githubusercontent.com/u/79162875?s=200&v=4" title="Lisp XXX">
+      <img src="https://avatars.githubusercontent.com/u/79162875?s=200&v=4" title="Lisp XXX" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/slurpcode">
-      <img src="https://avatars.githubusercontent.com/u/59591167?s=200&v=4" title="Slurpcode">
+      <img src="https://avatars.githubusercontent.com/u/59591167?s=200&v=4" title="Slurpcode" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/NextCommunity">
-      <img src="https://avatars.githubusercontent.com/u/86129340?s=200&v=4" title="Next Community">
+      <img src="https://avatars.githubusercontent.com/u/86129340?s=200&v=4" title="Next Community" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/one-language">
-      <img src="https://avatars.githubusercontent.com/u/40718659?s=200&v=4" title="One Programming Language">
+      <img src="https://avatars.githubusercontent.com/u/40718659?s=200&v=4" title="One Programming Language" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/POSSF">
-      <img src="https://avatars.githubusercontent.com/u/73318950?s=200&v=4" title="Persian Open Source Software Festival">
+      <img src="https://avatars.githubusercontent.com/u/73318950?s=200&v=4" title="Persian Open Source Software Festival" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/RoquesBeach">
-      <img src="https://avatars.githubusercontent.com/u/75231084?s=200&v=4" title="Roques Beach">
+      <img src="https://avatars.githubusercontent.com/u/75231084?s=200&v=4" title="Roques Beach" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/SalamLang">
-      <img src="https://avatars.githubusercontent.com/u/161657044?s=200&v=4" title="Salam Programming Language">
+      <img src="https://avatars.githubusercontent.com/u/161657044?s=200&v=4" title="Salam Programming Language" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/64-shades">
-      <img src="https://avatars.githubusercontent.com/u/85593293?s=200&v=4" title="64 Shades">
+      <img src="https://avatars.githubusercontent.com/u/85593293?s=200&v=4" title="64 Shades" style="width:200px;height:200px;object-fit:cover;">
     </a>
   </p>
 </div>
@@ -85,16 +85,16 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
   <h2>Organizations We Support 🤝</h2>
   <p>
     <a href="https://github.com/apache/">
-      <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" title="The Apache Software Foundation">
+      <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" title="The Apache Software Foundation" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/curl">
-      <img src="https://avatars.githubusercontent.com/u/16928085?s=200&v=4" title="curl">
+      <img src="https://avatars.githubusercontent.com/u/16928085?s=200&v=4" title="curl" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/lucee">
-      <img src="https://avatars.githubusercontent.com/u/10973141?s=200&v=4" title="Lucee">
+      <img src="https://avatars.githubusercontent.com/u/10973141?s=200&v=4" title="Lucee" style="width:200px;height:200px;object-fit:cover;">
     </a>
     <a href="https://github.com/mruby">
-      <img src="https://avatars.githubusercontent.com/u/1796512?s=200&v=4" title="mruby">
+      <img src="https://avatars.githubusercontent.com/u/1796512?s=200&v=4" title="mruby" style="width:200px;height:200px;object-fit:cover;">
     </a>
   </p>
 </div>
