@@ -219,4 +219,8 @@ Explore the collection:
 
 ## Jorge Luis Araica Mazzei 🌍
 
-[![Jorge Luis Araica Mazzei](images/jorge-luis-araica-mazzei.png "Jorge Luis Araica Mazzei")](https://github.com/summerhill5)
+<div style="text-align: center;">
+  <a href="https://github.com/summerhill5">
+    <img src="images/jorge-luis-araica-mazzei.png" alt="Jorge Luis Araica Mazzei" title="Jorge Luis Araica Mazzei" width="500" />
+  </a>
+</div>
