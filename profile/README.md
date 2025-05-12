@@ -229,6 +229,13 @@ Explore the collection:
       <td><a href="https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)"><img src="images/fuchsia-logo-twd.png" alt="The Walking Dead" title="The Walking Dead" width="250" height="250" /></a></td>
     </tr>
   </table>
+
+  <a href="https://github.com/fuchsia-agency">
+    <img src="https://user-images.githubusercontent.com/418747/75613050-20ee2280-5b75-11ea-98f4-a81e1d562db9.jpg" alt="Fuchsia Agency" title="Fuchsia Agency" width="100%" />
+  </a>
+  <a href="https://github.com/fuchsia-agency">
+    <img src="https://user-images.githubusercontent.com/418747/83332519-f54b1780-a2de-11ea-9e9c-78f4c2f0c2d3.jpg" alt="Fuchsia Agency" title="Fuchsia Agency" width="100%" />
+  </a>
 </div>
 
 <div align="center">
