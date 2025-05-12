@@ -203,7 +203,11 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 <div align="center">
   <h2>We Love Fuchsia Flowers 🌸</h2>
   <p>A vibrant mix of pop culture and nostalgia, reimagined with a bold splash of fuchsia. From sci-fi and retro games to surreal stories, each item is a floral tribute to our favorite classics.</p>
+  <a href="https://github.com/fuchsia-agency">
+    <img src="https://github.com/john-bampton/.github/blob/main/profile/images/fuchsia-agency-logo-jorge.png?raw=true" alt="Fuchsia Agency Logo" title="Fuchsia Agency Logo" width="100" />
+  </a>
 </div>
+
 
 Explore the collection:
 
