@@ -223,7 +223,7 @@ Explore the collection:
     <td><a href="https://en.wikipedia.org/wiki/Sliders_(TV_series)"><img src="images/fuchsia-logo-sliders.jpg" alt="Sliders" title="Sliders" width="250" height="250" /></a></td>
     <td><a href="https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)"><img src="images/fuchsia-logo-twd.png" alt="The Walking Dead" title="The Walking Dead" width="250" height="250" /></a></td>
   </tr>
-</table
+</table>
 
 <div align="center">
   <h2>Jorge Luis Araica Mazzei 🌍</h2>
