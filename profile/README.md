@@ -207,15 +207,15 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 
 Explore the collection:
 
-[![Arcade](images/fuchsia-arcade.gif "Arcade")](#)
-[![BattleStar Galactica](images/fuchsia-logo-battlestar.jpg "BattleStar Galactica")](https://en.wikipedia.org/wiki/Battlestar_Galactica)
-[![Video](images/fuchsia-crazy-video.gif)](#)
-[![Doom](images/fuchsia-logo-doom.jpg "Doom")](https://en.wikipedia.org/wiki/Doom_(franchise))
-[![Fringe](images/fuchsia-logo-fringe.jpg "Fringe")](https://en.wikipedia.org/wiki/Fringe_(TV_series))
-[![Fringe Division](images/fuchsia-logo-fringe-division.gif "Fringe Division")](https://en.wikipedia.org/wiki/Fringe_(TV_series))
-[![Inception](images/fuchsia-logo-inception.jpg "Inception")](https://en.wikipedia.org/wiki/Inception)
-[![Sliders](images/fuchsia-logo-sliders.jpg "Sliders")](https://en.wikipedia.org/wiki/Sliders_(TV_series))
-[![The Walking Dead](images/fuchsia-logo-twd.png "The Walking Dead")](https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series))
+<a href="#"><img src="images/fuchsia-arcade.gif" alt="Arcade" title="Arcade" width="250" height="250" /></a>
+<a href="https://en.wikipedia.org/wiki/Battlestar_Galactica"><img src="images/fuchsia-logo-battlestar.jpg" alt="BattleStar Galactica" title="BattleStar Galactica" width="250" height="250" /></a>
+<a href="#"><img src="images/fuchsia-crazy-video.gif" alt="Video" title="Video" width="250" height="250" /></a>
+<a href="https://en.wikipedia.org/wiki/Doom_(franchise)"><img src="images/fuchsia-logo-doom.jpg" alt="Doom" title="Doom" width="250" height="250" /></a>
+<a href="https://en.wikipedia.org/wiki/Fringe_(TV_series)"><img src="images/fuchsia-logo-fringe.jpg" alt="Fringe" title="Fringe" width="250" height="250" /></a>
+<a href="https://en.wikipedia.org/wiki/Fringe_(TV_series)"><img src="images/fuchsia-logo-fringe-division.gif" alt="Fringe Division" title="Fringe Division" width="250" height="250" /></a>
+<a href="https://en.wikipedia.org/wiki/Inception"><img src="images/fuchsia-logo-inception.jpg" alt="Inception" title="Inception" width="250" height="250" /></a>
+<a href="https://en.wikipedia.org/wiki/Sliders_(TV_series)"><img src="images/fuchsia-logo-sliders.jpg" alt="Sliders" title="Sliders" width="250" height="250" /></a>
+<a href="https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)"><img src="images/fuchsia-logo-twd.png" alt="The Walking Dead" title="The Walking Dead" width="250" height="250" /></a>
 
 ## Jorge Luis Araica Mazzei 🌍
 
