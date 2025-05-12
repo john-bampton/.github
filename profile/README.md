@@ -217,9 +217,9 @@ Explore the collection:
 <a href="https://en.wikipedia.org/wiki/Sliders_(TV_series)"><img src="images/fuchsia-logo-sliders.jpg" alt="Sliders" title="Sliders" width="300" height="300" /></a>
 <a href="https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)"><img src="images/fuchsia-logo-twd.png" alt="The Walking Dead" title="The Walking Dead" width="300" height="300" /></a>
 
-## Jorge Luis Araica Mazzei 🌍
-
 <div style="text-align: center;">
+  <h2>Jorge Luis Araica Mazzei 🌍</h2>
+
   <a href="https://github.com/summerhill5">
     <img src="images/jorge-luis-araica-mazzei.png" alt="Jorge Luis Araica Mazzei" title="Jorge Luis Araica Mazzei" width="500" />
   </a>
