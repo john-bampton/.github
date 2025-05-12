@@ -100,7 +100,9 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
   </p>
 </div>
 
-## We Donate Here ❤️
+<div align="center">
+  <h2>We Donate Here ❤️</h2>
+</div>
 
 <div align="center">
   <h3><a href="https://www.compassion.com.au/">Compassion</a> is a Christian international holistic child development organisation</h3>
@@ -110,6 +112,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       title="We donated to Gifts of Compassion Fruit and Veggie Seeds Pack"
   </a>
 </div>
+
 <div align="center">
   <h3>The <a href="https://www.flyingdoctor.org.au/">RFDS</a> is a national, charitable, health organisation delivering primary healthcare and 24-hour emergency services for those that live in rural and remote Australia.</h3>
   <a href="https://www.flyingdoctor.org.au/">
@@ -123,6 +126,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       width="360">
   </a>
 </div>
+
 <div align="center">
   <h3><a href="https://www.oxfam.org.au/">Oxfam</a> is an international charity and global movement dedicated to tackling the root causes of poverty.</h3>
   <a href="https://unwrapped.oxfam.org.au/">
@@ -131,6 +135,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       title="We donated to Oxfam Australia"
   </a>
 </div>
+
 <div align="center">
   <h3><a href="https://www.caritas.org.au/">Caritas Australia</a> is an Australian Catholic agency for development cooperation and humanitarian aid.</h3>
   <a href="https://www.caritas.org.au/">
@@ -139,6 +144,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
       title="We donated to Caritas Australia"
   </a>
 </div>
+
 <div align="center">
   <h3><a href="https://opencollective.com/">Open Collective</a> is a crowdfunding platform focused on grassroots groups.</h3>
   <a href="https://opencollective.com/john-bampton">
@@ -148,7 +154,9 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
   </a>
 </div>
 
-## John's friends 👯
+<div align="center">
+  <h2>John's friends 👯</h2>
+</div>
 
 <!-- https://github.com/BaseMax/github-name-friends -->
 
@@ -181,14 +189,18 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 - [therealnugget](https://github.com/therealnugget)
 - [Víctor Araica](https://github.com/VictorAraica)
 
-## Max's List of Interesting Repositories 📋
+<div align="center">
+  <h2>Max's List of Interesting Repositories 📋</h2>
+</div>
 
 - **CPython Language:** https://github.com/python/cpython
 - **LangChain:** https://github.com/langchain-ai/langchain
 - **PHP Language:** https://github.com/php/php-src
 - **TypeScript Language:** https://github.com/microsoft/TypeScript
 
-## John's List of Awesome GitHub Organizations 🌟
+<div align="center">
+  <h2>John's List of Awesome GitHub Organizations 🌟</h2>
+</div>
 
 - **The LaTeX Project:** https://github.com/latex3
 - **Lichess:** https://github.com/lichess-org
@@ -196,7 +208,9 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 - **Sparkle Motion:** https://github.com/sparklemotion
 - **Sphinx:** https://github.com/sphinx-doc
 
-## Classic Books 📚
+<div align="center">
+  <h2>Classic Books 📚</h2>
+</div>
 
 - **[1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)** by **George Orwell**: Ruled by the Party, controlled by the watchful gaze of Big Brother and punished by the Thought Police, no one is free in this dystopian world. But, hidden away in an office in the Ministry of Truth, Winston Smith longs for liberty, and starts to rebel.
 
