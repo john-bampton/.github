@@ -241,7 +241,9 @@ Explore the collection:
 
 <div align="center">
   <h2>Jorge Luis Araica Mazzei 🌍</h2>
+</div>
 
+<div align="center">
   <a href="https://github.com/summerhill5">
     <img src="images/jorge-luis-araica-mazzei.png" alt="Jorge Luis Araica Mazzei" title="Jorge Luis Araica Mazzei" width="500" />
   </a>
