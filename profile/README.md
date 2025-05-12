@@ -176,15 +176,6 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 - [Víctor Araica](https://github.com/VictorAraica)
 
 <div align="center">
-  <h2>Max's List of Interesting Repositories 📋</h2>
-</div>
-
-- **CPython Language:** https://github.com/python/cpython
-- **LangChain:** https://github.com/langchain-ai/langchain
-- **PHP Language:** https://github.com/php/php-src
-- **TypeScript Language:** https://github.com/microsoft/TypeScript
-
-<div align="center">
   <h2>John's List of Awesome GitHub Organizations 🌟</h2>
 </div>
 
@@ -193,6 +184,15 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 - **PostgreSQL:** https://github.com/postgres
 - **Sparkle Motion:** https://github.com/sparklemotion
 - **Sphinx:** https://github.com/sphinx-doc
+
+<div align="center">
+  <h2>Max's List of Interesting Repositories 📋</h2>
+</div>
+
+- **CPython Language:** https://github.com/python/cpython
+- **LangChain:** https://github.com/langchain-ai/langchain
+- **PHP Language:** https://github.com/php/php-src
+- **TypeScript Language:** https://github.com/microsoft/TypeScript
 
 <div align="center">
   <h2>Classic Books 📚</h2>
