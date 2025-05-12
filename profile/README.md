@@ -122,21 +122,21 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 <div align="center">
   <h3><a href="https://www.oxfam.org.au/">Oxfam</a> is an international charity and global movement dedicated to tackling the root causes of poverty.</h3>
   <a href="https://unwrapped.oxfam.org.au/">
-    <img src="images/uwrapped-oxfam-donation-website.png" alt="We donated to Oxfam Australia" title="We donated to Oxfam Australia" width="360" />
+    <img src="images/uwrapped-oxfam-donation-website.png" alt="We donated to Oxfam Australia" title="We donated to Oxfam Australia" width="500" />
   </a>
 </div>
 
 <div align="center">
   <h3><a href="https://www.caritas.org.au/">Caritas Australia</a> is an Australian Catholic agency for development cooperation and humanitarian aid.</h3>
   <a href="https://www.caritas.org.au/">
-    <img src="images/donation-to-caritas.png" alt="We donated to Caritas Australia" title="We donated to Caritas Australia" width="360" />
+    <img src="images/donation-to-caritas.png" alt="We donated to Caritas Australia" title="We donated to Caritas Australia" width="500" />
   </a>
 </div>
 
 <div align="center">
   <h3><a href="https://opencollective.com/">Open Collective</a> is a crowdfunding platform focused on grassroots groups.</h3>
   <a href="https://opencollective.com/john-bampton">
-    <img src="images/open-collective-sponsoring-5-dollars.png" alt="Our Donations at Open Collective" title="Our Donations at Open Collective" width="360" />
+    <img src="images/open-collective-sponsoring-5-dollars.png" alt="Our Donations at Open Collective" title="Our Donations at Open Collective" width="500" />
   </a>
 </div>
 
