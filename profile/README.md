@@ -256,3 +256,10 @@ Explore the collection:
     <img src="images/max-and-pat-sat-10-march-2018.jpg" alt="Max and Pat in my kitchen" title="Max and Pat in my kitchen">
   </a>
 </div>
+
+<div align="center">
+  <h2>Hanging out during COVID</h3>
+  <a href="#">
+    <img src="images/covid.jpg" alt="Life during COVID inside my lounge room" title="Life during COVID inside my lounge room">
+  </a>
+</div>
