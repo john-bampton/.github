@@ -247,3 +247,12 @@ Explore the collection:
     <img src="images/jorge-luis-araica-mazzei.png" alt="Jorge Luis Araica Mazzei" title="Jorge Luis Araica Mazzei" width="500" />
   </a>
 </div>
+
+<h3>My old friends Max and Pat in my apartment on Saturday the 10th of March 2018.
+  This was the second last time that I saw Max before he died. Max is on the left.
+</h3>
+<div align="center">
+  <a href="#">
+    <img src="images/max-and-pat-sat-10-march-2018.jpg" alt="Max and Pat in my kitchen" title="Max and Pat in my kitchen">
+  </a>
+</div>
