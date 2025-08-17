@@ -199,6 +199,7 @@ Add a `Star` to the [repository](https://github.com/john-bampton/.github) and yo
 </div>
 
 - **[1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)** by **George Orwell**: Ruled by the Party, controlled by the watchful gaze of Big Brother and punished by the Thought Police, no one is free in this dystopian world. But, hidden away in an office in the Ministry of Truth, Winston Smith longs for liberty, and starts to rebel.
+- **[Sam Loyd's Cyclopedia of 5000 Puzzles, Tricks, and Conundrums With Answers](https://archive.org/details/CyclopediaOfPuzzlesLoyd/)**: This book, Sam Loyd's Cyclopedia of 5,000 Puzzles Tricks & Conundrums with Answers, was compiled by his son and published in 1914 after his death. Although many books have been written about some of Loyd's puzzles, this remains the most complete volume of all of his puzzles. This is considered to be the most fabulous and exciting collection of puzzles ever assembled in one volume. The puzzles come with wonderful illustrations.
 
 <div align="center">
   <h2>We Love Fuchsia Flowers 🌸</h2>
