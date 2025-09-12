@@ -73,7 +73,7 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 ---
 
 <div align="center">
-  <h1>🔝 Top charities by Public Trust & Reputation 📢</h1>
+  <h1>🔝 Top charities & not-for-profits by Public Trust & Reputation 📢</h1>
 </div>
 
 <div align="center">
@@ -85,6 +85,19 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 </div>
 
 St John is a trusted, nation-wide provider of quality first aid, health, medical and wellbeing services and products. Providing help where and when you need it, and saving lives.
+
+---
+
+<div align="center">
+  <a href="https://sls.com.au/">
+    <img src="images/SLS_Roundel_225x225.png" alt="Surf Life Saving Australia is a community cause committed to turning the tide on coastal drownings by 2030.">
+    <br>
+    <strong>Surf Life Saving Australia (SLSA)</strong>
+  </a>
+</div>
+
+Surf Life Saving Australia (SLSA) is an Australian not-for-profit community organisation that promotes water safety and provides surf rescue services.
+SLSA strives to create a safe environment on Australia's beaches and coastline through patrols, education and training, public safety campaigns and the promotion of health and fitness. 
 
 ---
 
