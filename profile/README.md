@@ -45,7 +45,7 @@
       <td align="center">
         <a href="https://github.com/janus">
           <img src="https://avatars.githubusercontent.com/u/6726?s=100&v=4" alt="janus" title="janus"><br>
-          <strong>Programmer</strong><br>
+          <strong>Dreams computers 〰️</strong><br>
           Emeka
         </a>
       </td>
