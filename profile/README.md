@@ -77,6 +77,18 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 </div>
 
 <div align="center">
+  <a href="https://stjohn.org.au/">
+    <img src="images/St-John_Logo_R.svg" alt="St John Ambulance Australia (SJAA)" title="St John Ambulance Australia (SJAA)">
+    <br>
+    <strong>St John Ambulance Australia (SJAA)</strong>
+  </a>
+</div>
+
+St John is a trusted, nation-wide provider of quality first aid, health, medical and wellbeing services and products. Providing help where and when you need it, and saving lives.
+
+---
+
+<div align="center">
   <a href="https://www.hollows.org/">
     <img src="images/fredhollows-logo.svg" alt="Fred Hollows is remembered for the incredible legacy he left behind - The Fred Hollows Foundation. Continue Fred’s legacy by including a gift of sight in your Will" title="The Fred Hollows Foundation">
     <br>
@@ -85,6 +97,8 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 </div>
 
 The Fred Hollows Foundation is a non-profit aid organisation based in Sydney, Australia, which was founded in 1992, by eye surgeon Fred Hollows. The foundation focuses on treating and preventing blindness and other vision problems in people and communities. It operates in Australia, South East Asia, East Asia, the Middle East, and Africa.
+
+---
 
 <div align="center">
   <a href="https://www.flyingdoctor.org.au/">
