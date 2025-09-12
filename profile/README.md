@@ -74,6 +74,19 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 
 <div align="center">
   <h1>Top charities by Public Trust & Reputation</h1>
+</div>
+
+<div align="center">
+  <a href="https://www.hollows.org/">
+    <img src="images/fredhollows-logo.svg" alt="Fred Hollows is remembered for the incredible legacy he left behind - The Fred Hollows Foundation. Continue Fred’s legacy by including a gift of sight in your Will" title="The Fred Hollows Foundation">
+    <br>
+    <strong>The Fred Hollows Foundation</strong>
+  </a>
+</div>
+
+The Fred Hollows Foundation is a non-profit aid organisation based in Sydney, Australia, which was founded in 1992, by eye surgeon Fred Hollows. The foundation focuses on treating and preventing blindness and other vision problems in people and communities. It operates in Australia, South East Asia, East Asia, the Middle East, and Africa.
+
+<div align="center">
   <a href="https://www.flyingdoctor.org.au/">
     <img src="images/logo-RFDS.png" alt="The RFDS is a national, charitable, health organisation delivering primary healthcare" title="The RFDS">
     <br>
