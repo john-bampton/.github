@@ -29,7 +29,36 @@
       </td>
     </tr>
   </table>
-</div>  
+</div>
+
+<div align="center">
+  <h2>Developers 💾</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/prio101">
+          <img src="https://avatars.githubusercontent.com/u/3279809?s=100&v=4" alt="prio101" title="prio101" /><br>
+          <strong>Farmer, Occasional Programmer 👨🏽‍🌾</strong><br>
+          Mahabub Islam Prio
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/janus">
+          <img src="https://avatars.githubusercontent.com/u/6726?s=100&v=4" alt="janus" title="janus"><br>
+          <strong>Programmer</strong><br>
+          Emeka
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/anufdo"> 
+          <img src="https://avatars.githubusercontent.com/u/8244245?s=100&v=4" alt="anufdo" title="anufdo"><br>
+          <strong>Programmer</strong><br>
+          Anuradha Fernando  
+        </a>
+      </td>
+    </tr>
+  </table>
+</div> 
 
 <div align="center">
   <h2>The Autobots will invite you on "Star" 🏎️ 🌠</h2>
