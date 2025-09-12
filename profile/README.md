@@ -69,3 +69,19 @@ Add a `⭐` to [this repository](https://github.com/john-bampton/.github) and Op
 ---
 
 The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, sentient robots from the planet Cybertron, who believe in freedom and justice for all life. Led by [Optimus Prime](https://en.wikipedia.org/wiki/Optimus_Prime), they are in a long-standing civil war with the evil Decepticons, who seek to conquer. The Autobots, often transforming into vehicles like cars and trucks, are known as "Autonomous Robotic Organisms" and are the protagonists in the Transformers, serving as defenders of Earth and allies to humans.
+
+---
+
+<div align="center">
+  <h1>Top charities by Public Trust & Reputation</h1>
+  <a href="https://www.flyingdoctor.org.au/">
+    <img src="images/logo-RFDS.png" alt="The RFDS is a national, charitable, health organisation delivering primary healthcare" title="The RFDS"><br>
+    <strong>The RFDS</strong>
+  </a>
+</div>
+
+The RFDS is a national, charitable, health organisation delivering primary healthcare and 24-hour emergency services for those that live in rural and remote Australia.
+Long known as one of the largest aeromedical organisations in the world, the RFDS delivers health care where mainstream health services are not available, using the latest in aviation, medical and communications technology and a broad-reaching ground-service fleet.
+Supported by a vast number of volunteers and supporters, the RFDS provides a lifeline for those that live, work and travel in rural and remote Australia, and has been doing so for over nine decades.
+
+---
