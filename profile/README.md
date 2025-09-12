@@ -75,7 +75,8 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 <div align="center">
   <h1>Top charities by Public Trust & Reputation</h1>
   <a href="https://www.flyingdoctor.org.au/">
-    <img src="images/logo-RFDS.png" alt="The RFDS is a national, charitable, health organisation delivering primary healthcare" title="The RFDS"><br>
+    <img src="images/logo-RFDS.png" alt="The RFDS is a national, charitable, health organisation delivering primary healthcare" title="The RFDS">
+    <br>
     <strong>The RFDS</strong>
   </a>
 </div>
@@ -83,5 +84,18 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 The RFDS is a national, charitable, health organisation delivering primary healthcare and 24-hour emergency services for those that live in rural and remote Australia.
 Long known as one of the largest aeromedical organisations in the world, the RFDS delivers health care where mainstream health services are not available, using the latest in aviation, medical and communications technology and a broad-reaching ground-service fleet.
 Supported by a vast number of volunteers and supporters, the RFDS provides a lifeline for those that live, work and travel in rural and remote Australia, and has been doing so for over nine decades.
+
+---
+
+<div align="center">
+  <a href="https://www.thesmithfamily.com.au/">
+    <img src="images/the-smith-family-logo-desktop-168.svg" alt="At The Smith Family, we believe that education is one of the world’s most powerful change agents." title="The Smith Family">
+    <br>
+    <strong>The Smith Family</strong>
+  </a>
+</div>
+
+At The Smith Family, we believe that education is one of the world’s most powerful change agents.
+That’s why we focus on helping young Australians to overcome educational inequality caused by poverty. As a national, independent charity, every day we work with thousands of children and their families to help them unlock better futures for themselves.
 
 ---
