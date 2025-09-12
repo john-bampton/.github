@@ -73,7 +73,7 @@ The [Autobots](https://en.wikipedia.org/wiki/Autobot) are a faction of heroic, s
 ---
 
 <div align="center">
-  <h1>Top charities by Public Trust & Reputation</h1>
+  <h1>🔝 Top charities by Public Trust & Reputation 📢</h1>
 </div>
 
 <div align="center">
