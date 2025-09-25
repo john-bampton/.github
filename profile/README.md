@@ -52,7 +52,7 @@
       <td align="center">
         <a href="https://github.com/anufdo"> 
           <img src="https://avatars.githubusercontent.com/u/8244245?s=100&v=4" alt="anufdo" title="anufdo"><br>
-          <strong>Programmer</strong><br>
+          <strong>Full-Stack Developer ⚡</strong><br>
           Anuradha Fernando  
         </a>
       </td>
