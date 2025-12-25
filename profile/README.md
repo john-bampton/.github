@@ -14,13 +14,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/BaseMax">
-          <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base"><br>
-          <strong>Chief Technology Officer 💻</strong><br>
-          Max Base  
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/johnbampton"> 
           <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="Beast"><br>
           <strong>Office Cleaner 🧹</strong><br>
@@ -30,35 +23,6 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <h2>Developers 💾</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/prio101">
-          <img src="https://avatars.githubusercontent.com/u/3279809?s=100&v=4" alt="prio101" title="prio101" /><br>
-          <strong>Farmer, Occasional Programmer 👨🏽‍🌾</strong><br>
-          Mahabub Islam Prio
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/janus">
-          <img src="https://avatars.githubusercontent.com/u/6726?s=100&v=4" alt="janus" title="janus"><br>
-          <strong>Dreams computers 〰️</strong><br>
-          Emeka
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/anufdo"> 
-          <img src="https://avatars.githubusercontent.com/u/8244245?s=100&v=4" alt="anufdo" title="anufdo"><br>
-          <strong>Full-Stack Developer ⚡</strong><br>
-          Anuradha Fernando  
-        </a>
-      </td>
-    </tr>
-  </table>
-</div> 
 
 <div align="center">
   <h2>The Autobots will invite you on "Star" 🏎️ 🌠</h2>
