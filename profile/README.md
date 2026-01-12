@@ -15,9 +15,9 @@
       </td>
       <td align="center">
         <a href="https://github.com/johnbampton"> 
-          <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="Beast"><br>
+          <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="John"><br>
           <strong>Office Cleaner 🧹</strong><br>
-          Beast   
+          John   
         </a>
       </td>
     </tr>
