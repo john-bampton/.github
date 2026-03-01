@@ -13,6 +13,8 @@
           John Bampton  
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/johnbampton"> 
           <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="John"><br>
