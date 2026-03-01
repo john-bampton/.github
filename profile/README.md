@@ -8,7 +8,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/jbampton"> 
-          <img src="https://avatars.githubusercontent.com/u/418747?s=200&v=4" alt="John Bampton"><br>
+          <img src="https://avatars.githubusercontent.com/u/418747?s=225&v=4" alt="John Bampton"><br>
           <strong>CEO and Founder 🏢</strong><br>
           John Bampton  
         </a>
@@ -17,7 +17,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/johnbampton"> 
-          <img src="https://avatars.githubusercontent.com/u/20361754?s=200&v=4" alt="John"><br>
+          <img src="https://avatars.githubusercontent.com/u/20361754?s=175&v=4" alt="John"><br>
           <strong>Office Cleaner 🧹</strong><br>
           John   
         </a>
@@ -26,7 +26,7 @@
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/BaseMax">
-          <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base"><br>
+          <img src="https://avatars.githubusercontent.com/u/2658040?s=125&v=4" alt="Max Base"><br>
           <strong>Chief Technology Officer</strong><br>
           Max Base
         </a>
