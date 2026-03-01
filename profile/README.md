@@ -102,6 +102,19 @@ Supported by a vast number of volunteers and supporters, the RFDS provides a lif
 
 ---
 
+
+<div align="center">
+  <a href="https://www.salvationarmy.org.au/">
+    <img src="images/the-salvation-army.png" alt="The Salvation Army Australia" title="The Salvation Army Australia">
+    <br>
+    <strong>The Salvation Army Australia</strong>
+  </a>
+</div>
+
+The Salvation Army Australia is an international Christian movement, united by faith and giving hope where it’s needed most. Across Australia — in cities, country towns and rural communities — our work touches every demographic and age group. We’re involved in national issues while also bringing hope to people who may be experiencing hardship or injustice.
+
+---
+
 <div align="center">
   <a href="https://www.thesmithfamily.com.au/">
     <img src="images/the-smith-family-logo-desktop-168.svg" alt="At The Smith Family, we believe that education is one of the world’s most powerful change agents." title="The Smith Family">
