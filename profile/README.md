@@ -27,7 +27,7 @@
       <td colspan="2" align="center">
         <a href="https://github.com/BaseMax">
           <img src="https://avatars.githubusercontent.com/u/2658040?s=125&v=4" alt="Max Base"><br>
-          <strong>Chief Technology Officer</strong><br>
+          <strong>Chief Technology Officer 💻</strong><br>
           Max Base
         </a>
       </td>
